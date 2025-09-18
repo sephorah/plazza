@@ -32,5 +32,5 @@ You might press `ENTER` to send a new command.
 
 ### Developers
 
-| [<img src="https://github.com/ivsgabi.png?size=85" width=85><br><sub>Johana GABA</sub>](https://github.com/ivsgabi) | [<img src="https://github.com/sephorah.png?size=85" width=85><br><sub>Séphorah Aniambossou</sub>](https://github.com/sephorah)
+| [<img src="https://github.com/ivsgabi.png?size=85" width=85><br><sub>Johana GABA</sub>](https://github.com/ivsgabi) | [<img src="https://github.com/sephorah.png?size=85" width=85><br><sub>Séphorah ANIAMBOSSOU</sub>](https://github.com/sephorah)
 | :---: | :---: |
