@@ -28,7 +28,7 @@ NUMBER := x [1..9][0..9]*
 
 Example: `regina XXL x2; fantasia M x3; margarita S x1; monza XL x4`
 
-You might press `ENTER` to send a new command.
+Press `ENTER` to send a new command.
 
 ## Developers
 
