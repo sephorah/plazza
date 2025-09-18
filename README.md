@@ -11,6 +11,13 @@ Build the project.
 make
 ```
 
+```
+USAGE: ./plazza c n t
+	c	multiplier for the cooking time of the pizzas
+	n	number of cooks per kitchen
+	t	time in milliseconds, used by the kitchen stock to replace ingredients
+```
+
 Pizza ordering MUST respect the following grammar:
 ```
 S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER ]*
