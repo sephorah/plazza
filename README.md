@@ -20,8 +20,8 @@ USAGE: ./plazza c n t
 
 Pizza ordering MUST respect the following grammar:
 ```
-S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER ]*
-TYPE := [ a .. zA .. Z ]+
+S := TYPE SIZE NUMBER [; TYPE SIZE NUMBER]*
+TYPE := [a..zA..Z]+
 SIZE := S | M | L | XL | XXL
 NUMBER := x [1..9][0..9]*
 ```
